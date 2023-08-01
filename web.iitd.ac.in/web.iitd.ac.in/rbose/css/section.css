@@ -1,0 +1,102 @@
+.side_bar a{text-transform: uppercase;}
+.sec_lst{list-style-type:square;}
+.sec_lst li{color: #0f3661;;font-family: 'Open Sans', sans-serif;font-size: 16px;font-weight: 600;}
+.sec_lst li p{color:#222222;font-family: 'Open Sans', sans-serif;font-size: 16px;font-weight:600;
+padding-top: 20px;padding-bottom: 20px;}
+.sub_sec_lst{list-style-type:disc;padding-top: 30px;}
+.green_lst{list-style-type:disc;padding-top: 30px;}
+.green_lst li{font-family: 'Open Sans', sans-serif;font-size: 16px;padding-bottom: 10px;}
+.green_lst li:nth-child(odd){color: #0f3661;;}
+.green_lst li:nth-child(even){color: #222222;}
+.grn_lst{list-style-type:disc;padding-top: 30px;}
+.grn_lst li{font-family: 'Open Sans', sans-serif;font-size: 16px;padding-bottom: 30px;}
+.grn_lst li:nth-child(odd){color: #0f3661;;}
+.grn_lst li:nth-child(even){color: #222222;}
+.blk_lst{list-style-type:disc;}
+.blk_lst li{font-family: 'Open Sans', sans-serif;font-size: 16px;padding-bottom: 30px;}
+.blk_lst li:nth-child(odd){color: #222222;}
+.blk_lst li:nth-child(even){color: #0f3661;;}
+.book_sec_lst{list-style-type:square;}
+.book_sec_lst li{color: #0f3661;;font-family: 'Open Sans', sans-serif;font-size: 16px;padding-bottom: 30px;}
+.sub_sec_lst li{color: #222222;font-family: 'Open Sans', sans-serif;font-size: 16px;padding-bottom: 0px;}
+.number_lst li{color:#222222;font-family: 'Open Sans', sans-serif;font-size: 16px;font-weight:400;
+padding-top: 20px;padding-bottom: 16px;}
+.only_p{color: #0f3661;;font-family: 'Open Sans', sans-serif;font-size: 16px;font-weight: 600;}
+.theory_sec{padding-bottom: 50px;padding-top: 10px;}
+.main_heading{font-family: 'Poppins', sans-serif;font-weight: 700;font-size: 32px;color: #85bb42;margin-top: -20px;
+margin-bottom: 20px;margin-left: 15px;text-transform: uppercase;}
+.bread{border-bottom: 2px dotted #eee;}
+ul.breadcrumb {padding: 10px 16px;list-style: none;background-color: #ffffff;}
+ul.breadcrumb li {display: inline;font-size: 18px;}
+ul.breadcrumb li+li:before {padding: 8px;color: eee;content: "/\00a0";}
+ul.breadcrumb li a {color: #ccc;text-decoration: none;}
+ul.breadcrumb li a:hover {color: #01447e;text-decoration: none;}
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover{z-index: 2;
+color: #fff;background-color: #0f3661;border-color: #0f3661;}
+.main_txt{font-family: 'Poppins', sans-serif;font-size: 24px;font-weight: 500;color: #252525;
+border-bottom: 2px dotted #eee;text-transform: uppercase;}
+.research{padding-top: 50px;padding-bottom: 50px;border-left: 2px dotted #eee;}
+.no_side{padding-top: 25px;border-left: 2px dotted #eee;border-bottom: 2px dotted #eee;}
+.gr_clr{color: #85bb42;}
+.blu_clr{color: #0f3661;}
+.img_cont{margin: 0px auto;width: 114px;height: 136px;;}
+.intro_know{font-family: 'Poppins', sans-serif;font-size: 20px;font-weight: 500;border-bottom: 2px dotted #eee;}
+.blue_clr{color: #252525;}
+.know_me_lst{list-style-type:none;padding-left: 0px !important;padding-bottom: 20px;padding-top: 20px;}
+.know_me_lst li{font-family: 'Poppins', sans-serif;font-size: 16px;font-weight: 500;padding-bottom: 10px;}
+.know_me_lst li i{font-weight: 400; font-size: 16px;color: #0f3661;padding-right: 10px;}
+.rbose_intro{font-family: 'Open Sans', sans-serif;font-size: 15px;font-weight: 400;color: #252525;padding-bottom: 20px;}
+.mail_knw{font-family: 'Poppins', sans-serif;font-size: 16px;font-weight: 500;color: #0f3661;}
+.mail_know{font-family: 'Poppins', sans-serif;font-size: 14px;}
+
+
+
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}
+.photos_set{
+    width: 244px;
+    height: 162px;
+}
+.gallery_set{
+    margin: 0px auto;
+    height: 170px;
+    border: 1px solid #eee;
+}
+
+.thumbnail {
+    display: block;
+     padding: 4px; 
+     margin-bottom: 0; 
+     line-height: 0 ;
+    background-color: #fff;
+     border: 0; 
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+
+
+.img_sec{display: inline !important;}
+.img_sec1{width: 255px;height: 160px;margin: 0px auto;}
+.img_collab{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17.22px;
+    font-weight: 600;
+    color: #222222;
+    padding-top: 15px;
+}
+.img_collab1{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17.22px;
+    font-weight: 600;
+    color: #0f3661;
+    padding-top: 15px;
+}
+.national_img_sec1{width: 255px;height: 270px;margin: 0px auto;}
+.national_img_sec{display: inline !important;}
